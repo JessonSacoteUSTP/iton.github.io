@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CDO COVID19 TRACKER</title>
+    <link rel="stylesheet" href="style.css">  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    
+</head>
+<body>
+    <div class="container">
+        <header>
+            
+           
+            
+
+            <nav class="navbar navbar-expand-sm bg-dark navbar-dark ">
+                <a class="navbar-brand" href="#">
+                    <img src="Images/iphonex.png" alt="logo" style="width:400px;">
+                  </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                  <ul class="navbar-nav">
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">CONTACTS</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">REPORT A CASE</a>
+                    </li>    
+                  </ul>
+                </div>  
+              </nav>
+       
+        <main>
+            <div class="date ">
+                <div class="col-sm-12">
+                    <h2>UPDATES AS OF MAY 27, 2020</h2>
+                    
+                 </div>
+            </div>
+
+            <div class="latest">
+                <div class="col-sm-12">
+                    <h2>ACTIVE CASES</h2>
+                    <p>2</p>
+                    
+                 </div>
+               
+             </div>
+            
+            <div class="row1">
+                <div class="col-sm-6">
+                    <h2>TOTAL CASES</h2>
+                    <p>14</p>
+                 </div>
+                 <div class="col-sm-6">
+                    <h2>DIED</h2>
+                    <p>4</p>
+                 </div>  
+            </div>
+    
+           <div class="row2">
+                 <div class="col-sm-6">
+                  <h2>RECOVERED</h2>
+                  <p>4</p>
+                </div>
+                <div class="col-sm-6">
+                    <h2>ADMITTED</h2>
+                    <p>1</p>
+                 </div>    
+             </div>
+             
+
+
+
+
+
+            
+          
+             <div class="carousel slide" data-ride="carousel">
+              <ul class="carousel-indicators">
+                <li data-target="#pic" data-slide-to="0" class="active"></li>
+                <li data-target="#pic" data-slide-to="1"></li>
+                <li data-target="#pic" data-slide-to="2"></li>
+              </ul>
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img src="Images/90127237_117181209905930_2824681449481830400_n.jpg" alt="pic1" width="1100" height="500">
+                  <div class="carousel-caption">
+                    <h3>SANITATION TEAM</h3>
+                    <p>THANK YOU, FRONLrrrINERS!</p>
+                  </div>   
+                </div>
+                <div class="carousel-item">
+                  <img src="Images/90127237_117181209905930_2824681449481830400_n.jpg" alt="pic2" width="1100" height="500">
+                  <div class="carousel-caption">
+                    <h3>DECINFECTION TEAM</h3>
+                    <p>THANK YOU, FRONLINERS!</p>
+                  </div>   
+                </div>
+                <div class="carousel-item">
+                  <img src="Images/bong-go-donation-nmmc.jpg" alt="pic3" width="1100" height="500">
+                  <div class="carousel-caption">
+                    <h3>NMMC</h3>
+                    <p>THANK YOU, FRONLINEtRS!</p>
+                  </div>   
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#pic" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+              </a>
+              <a class="carousel-control-next" href="#pic" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+              </a>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+            </main>
+
+
+          
+
+
+
+
+
+    </div>
+
+
+
+    
+</body>
+</html>

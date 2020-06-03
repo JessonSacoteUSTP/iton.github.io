@@ -1,0 +1,51 @@
+             <div class="details">
+                <div class="row3">
+                    <div class="col-sm-2">
+                     <h2>CASES</h2>
+                     <p><i class="fa fa-user" aria-hidden="true"></i> PH13678</p>
+
+                     <p><br><br><br><br><br><i class="fa fa-user" aria-hidden="true"></i> PH597</p>
+
+                     <p><br><br><br><br><i class="fa fa-user" aria-hidden="true"></i> PH7193</p>
+
+                     <p><br><i class="fa fa-user" aria-hidden="true"></i> PH7194</p>
+
+                     <p><br><br><i class="fa fa-user" aria-hidden="true"></i> PH7195</p>
+
+                     <p><br><br><br><i class="fa fa-user" aria-hidden="true"></i> PH6783</p>
+                   </div>
+                   <div class="col-sm-2">
+                        <h2>DETAILS</h2>
+                        <p>25yo <br>FEMALE<br>from Lumbia<br>admitted in NMMC</p>
+
+                        <p><br>From a numbered barangay with travel history</p>
+
+                        <p><br>
+                            Wife of PH6783
+                        </p>
+
+                        <p><br>
+                            Daughter of PH6783
+                        </p>
+
+                        <p><br>
+                            Granddaughter of PH6783
+                        </p>
+
+                        <p><br><br>69yo <br>MALE<br>from Camaman-an<br>Died in NMMC</p>
+                        
+                     
+                     </div>    
+                     <div class="col-sm-2">
+                        <h2>STATUS</h2>
+                        <p>ADMITTED</p>
+        
+                     
+                     </div> 
+                </div>
+                 
+
+
+
+
+             </div>

@@ -1,0 +1,27 @@
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+            <script type="text/javascript">
+              google.charts.load("current", {packages:["corechart"]});
+              google.charts.setOnLoadCallback(drawChart);
+              function drawChart() {
+                var data = google.visualization.arrayToDataTable([
+                  ['STATUS', 'NO. OF CASES'],
+                  ['RECOVERED',     4,],
+                  ['DIED',      4],
+                  ['Infected outside CDO',  1],
+          
+                ]);
+        
+                var options = {
+                  title: 'COVID-19 CASES',
+                  
+                  pieHole: 0.7,
+                };
+        
+                var chart = new google.visualization.PieChart(document.getElementById('donutchart'));
+                chart.draw(data, options);
+              }
+            </script>
+          </head>
+          <body>
+            <div id="donutchart" style="width: 600px; height: 500px;"></div>
+          </body>
